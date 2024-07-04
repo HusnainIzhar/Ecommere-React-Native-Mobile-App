@@ -1,1 +1,0 @@
-# ecommere-reactnative-mobile-app

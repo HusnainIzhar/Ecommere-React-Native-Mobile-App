@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Account Activation</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+            text-align: center;
+        }
+
+        h1 {
+            color: #007bff;
+        }
+
+        h2 {
+            color: #28a745;
+        }
+
+        p {
+            margin-bottom: 15px;
+        }
+
+        .container {
+            max-width: 600px;
+            margin: auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Welcome to Our Emark Realty!</h1>
+        <p>Dear <strong>
+                <%= name.name %>
+            </strong>,</p>
+        <p>Thank you for signing up. To activate your account, please use the following OTP:</p>
+
+        <h2>OTP: <%= activationOTP %>
+        </h2>
+
+        <p>This OTP is valid for a short period, so please use it promptly to complete your account activation.</p>
+
+        <p>If you did not sign up for our platform, please ignore this email.</p>
+
+        <p>Best regards,<br> The Team</p>
+    </div>
+</body>
+
+</html>
