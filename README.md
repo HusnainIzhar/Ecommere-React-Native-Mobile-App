@@ -22,7 +22,8 @@ Pocket Pharma is a feature-rich Ecommerce mobile application built using React N
 
 You can download the APK file directly from this repository to install Pocket Pharma on your Android device.
 
-[Download APK](https://github.com/HusnainIzhar/Ecommere-React-Native-Mobile-App/blob/main/Releases/Pocket-Pharma.apk)
+[Download APK](https://raw.githubusercontent.com/HusnainIzhar/Ecommere-React-Native-Mobile-App/main/Releases/Pocket-Pharma.apk)
+
 
 ## Installation Instructions
 
