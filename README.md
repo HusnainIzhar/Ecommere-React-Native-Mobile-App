@@ -38,7 +38,7 @@ You can download the APK file directly from this repository to install Pocket Ph
 - **Node.js:** Backend framework for server-side logic.
 - **Redux Toolkit Query:** State management library for efficient API calls.
 - **TypeScript:** Superset of JavaScript with static typing.
-- **Tailwind CSS:** Utility-first CSS framework for styling.
+- **Native Wind:** Utility-first CSS framework for styling using Tailwind classes.
 
 ## Contributing
 
